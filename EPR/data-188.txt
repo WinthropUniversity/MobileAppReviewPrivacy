@@ -1,0 +1,3 @@
+5b91b7780dfd20274a156533
+DO NOT INSTALL
+Reads and transmits your personal info (bad PERMISSIONS), always running and cannot be shut down, battery hog, and causes crashes regularly.  Just don't do it.

@@ -1,0 +1,3 @@
+5b91b6a00dfd20274a04a661
+Flurry and Openfeint removed
+I almost passed on this FAOTD after reading that the app automatically opted users into data collection (Flurry).  I can't stand it when PAID apps require intrusive permissions, display irritating advertisements, etc.<br />I decided to see for myself if the app seemed sketchy, and I'm glad that Idid; Openfeint and Flurry analytics have been removed entirely.<br />The app itself is a good implementation of Sudoku -- both the gameplay and appearance are very customizable.

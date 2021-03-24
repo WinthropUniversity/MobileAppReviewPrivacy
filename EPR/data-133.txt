@@ -1,0 +1,3 @@
+5b91b6bc0dfd20274a06ca9c
+Why are there always permissions issues?
+Disclaimer: I haven't studied permissions in depth. But I'd like to know why this game needs access to know my phone number. Other questionable permissions exist as well. It looked interesting, and the lack of 1-star reviews on a FAOTD drew me in, but it's not worth it if this developer is looking to steal personal information. Will update this review if a plausible explanation comes along.

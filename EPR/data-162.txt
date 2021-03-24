@@ -1,0 +1,3 @@
+5b91b7170dfd20274a0de4ed
+Ridiculous unnecessary permissions!
+Why does a music app need so much access to the data (including protected data) on my phone? Beware of &quot;Sticky Notes&quot; That software gives the developer access to your data at any time and as a many times as they need. Also, why does it need to be on &quot;start up&quot;?

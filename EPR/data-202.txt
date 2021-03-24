@@ -1,0 +1,3 @@
+5b91b79b0dfd20274a18149b
+Asking for my IMEI and/or phone number?
+I will install and use this application when it stops asking for the \\&34;Phone status and identity\\&34; privilege which allows applications to read your phone number (and worse, your unique device IMEI).  There is no reason for a shopping application to need this kind of information, please change the application to not ask for it, thank you!

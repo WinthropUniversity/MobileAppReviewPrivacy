@@ -1,0 +1,3 @@
+5b91b6ac0dfd20274a059011
+You don't have a quarter? Dataminer
+It is a coin flipping app... uhh... OK.. You can even cheat and stack the odds to your advantage. But the real problem:<br /><br />Almost all of the FAOTD lately have had<br />- open network sockets<br />- access information about networks<br /><br />These are datamining permissions.<br /><br />Just use any coin in your pocket. Let em try to mine off that.  Heh...

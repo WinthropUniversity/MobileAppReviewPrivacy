@@ -1,0 +1,3 @@
+5b91b6250dfd20274afb1f2a
+Mixpanel Analytics at startup?
+Researched Mixpanel website to discover by their own claim *how many paying customers haven't logged on for a month?*<br />As invasive as Flurry AND running on startup as a service!<br />I don't recommend installing this on a device that you maintain personal information. Too bad too, it's a fun game.

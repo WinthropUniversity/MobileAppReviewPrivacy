@@ -1,0 +1,3 @@
+5b91b4ef0dfd20274ae3fc3b
+Just a front end - Requires Internet AND private info + Account
+This is just an extension of a web service. It does not work on its own. You must give it personal information, and it assigns you and your device a unique identity.<br /><br />It also requires you to accept PUSH notifications; that is usually used for ads and spam.<br /><br />All that nonsense for a hefty price tag? I don't think so!<br /><br />BOTTOM LINE: Don't bother.

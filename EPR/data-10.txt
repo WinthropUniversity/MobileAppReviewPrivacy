@@ -1,0 +1,3 @@
+5b91b40c0dfd20274ad40e09
+Questionable Permissions
+Thought I'd try this game out. It asked for permission to read phone status and identity in addition the other disclosed permission requests. I declined to install partially because I wasn't sure if my phone number is considered part of my phone's identity and partially because I don't see many other apps requesting that kind of information.

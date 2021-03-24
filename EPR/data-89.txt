@@ -1,0 +1,3 @@
+5b91b6280dfd20274afb523d
+Paid app with in app purchase!
+First  i dont think apps ith IAP should ever<br />charge for the app itself and why the heck does it need to know my location?  Hate apps that is data mining...this is worthless.

@@ -1,0 +1,3 @@
+5b91b7940dfd20274a178dfd
+Automatically Connects to OpenFeint
+The game is okay, but it automatically connects to OpenFeint. Every other game I've played that uses OpenFeint will ask your permission to connect, which I always decline. I am upset that this developer automatically gives Openfeint access to my device without my consent. If you are concerned about the intrusiveness and security of Openfeint, and if you believe that developers should ask for your permission before connecting you to a 3rd party, do not install this app.

@@ -1,0 +1,3 @@
+5b91b7390dfd20274a1082f8
+change permissions after free
+I think this type of thing is horrible. I got this app when it had decent permissions and then I see an update available. New permission required. Now they want to have access to my network info. For what!? No reason for it.<br />Very poor practice putting an app on the market with good permissions and then putting out an &quot;update&quot;  with the bad ones in tow.<br />Uninstalled and will delete from my account.

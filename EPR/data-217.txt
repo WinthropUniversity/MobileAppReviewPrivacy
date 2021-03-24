@@ -1,0 +1,3 @@
+5b91b7bc0dfd20274a1ab099
+Unjustified permissions for a simple game
+This game requests permission to read personal contacts, but its description doesn't say what will be done with my private information. Totally unacceptable, and apparently limited to the Amazon version of the game.

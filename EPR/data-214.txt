@@ -1,0 +1,3 @@
+5b91b7b90dfd20274a1a751f
+Suspecious behavior, fake scanning
+It asks for personal information before allowing you to progress. There is simply no legit reason a so called virus scanner would need this info. If that's not enough, the scanner is fake. How do I know? Because as of this date, there are NO viruses for Android. Scanning is a waste of battery life and resources. The closest you'll get to a virus is something like this app, that tries to get you to hand over personal information. obviously this app wouldn't detect those, as it is one of them.

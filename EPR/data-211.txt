@@ -1,0 +1,3 @@
+5b91b7b00dfd20274a19c219
+Unnecessary permissions
+This app requires \\&34;View your accounts\\&34; permission, enabling it to get your email addresses and other personal information. WHY! I hit the \\&34;buy\\&34; button so I could see the permissions for myself - Amazon should let customers see the permissions apps request before \\&34;purchasing\\&34; them. Even as a free app, now this is stuck in my apps list forever and I will NEVER install it. (And they probably already forwarded my info on to the company as it is...)

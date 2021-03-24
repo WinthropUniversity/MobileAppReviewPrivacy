@@ -1,0 +1,3 @@
+5b91b5040dfd20274ae5754b
+Game requires access to location?
+This game immediately calls upon your location information, whether it be by WiFi or cell towers. This can pinpoint you to an area within feet of your physical location. Ask yourself, why would a paid app need this permission and why is everyone fine with it?    Thank you Cyanogenmod for the heads up and blocking this nefarious app. Uninstalled.

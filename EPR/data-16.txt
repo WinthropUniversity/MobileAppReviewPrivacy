@@ -1,0 +1,3 @@
+5b91b4310dfd20274ad6b5d0
+Excessive permissions
+New update wants to read all contact data and call logs. For what? This is an e-commerce app. Why would it need to spy on me? New permission also wants to be able to send silent text messages and delete shortcuts. No explanation given for this need, either. I'm not installing something that violates my trust and privacy. It's shameful.

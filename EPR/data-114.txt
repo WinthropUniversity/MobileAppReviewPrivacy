@@ -1,0 +1,3 @@
+5b91b69a0dfd20274a042a2b
+Spy App-data Miner-DO NOT INSTALL
+This apps whole purpose is to gather contact info, phone numbers, read messages both incomming and outgoing, apps installed, and full internet access. It can read and write to your contacts, messages, and make phone calls. It has access to your phones camera. None of the above which is needed. This apps permissions are designed to gather metrics to sell, targeting your contacts, matching phone numbers to names and addresses. Spamming your and your friends phone and email, even reading your email and messages.

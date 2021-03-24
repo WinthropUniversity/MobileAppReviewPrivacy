@@ -1,0 +1,3 @@
+5b91b7000dfd20274a0c1b7a
+horrid permissions
+For an app to use the permission of making a call without your permission or knowledge, and simultaneously to ask for the ability to use my contacts, is simply ridiculous. You can explain away the contacts because it is a device search engine, but there is no way they need to make a call without your knowledge.<br /><br />They do not even explain why they want the perms. Steer clear.

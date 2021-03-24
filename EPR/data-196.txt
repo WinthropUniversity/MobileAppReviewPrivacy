@@ -1,0 +1,3 @@
+5b91b7920dfd20274a175ee2
+Google Finance is better
+This app requires you to input your financial institutions username and password. It updates your stock info at night. I didn't feel comfortable providing my log in information to a third party company that would then gain access to all of my stock accounts.Google Finance doesn't require personal information and it provides you with real-time quotes during trading sessions. It's a much better app and it's free.

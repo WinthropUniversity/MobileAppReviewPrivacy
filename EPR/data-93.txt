@@ -1,0 +1,3 @@
+5b91b62f0dfd20274afbed4c
+Spying on your activities before and after using this app
+Access to the camera so they can take snapshots of what you are doing, as outlined in this little gem of a permission *Get information about the currently or recently running tasks: a thumbnail representation of the tasks, what activities are running in it, etc.* That is beyond insane for a recipe app, and has cost allrecipes.com a lot of respect and trust from me.

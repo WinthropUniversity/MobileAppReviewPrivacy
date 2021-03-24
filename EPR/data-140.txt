@@ -1,0 +1,3 @@
+5b91b6ce0dfd20274a083799
+use caution
+This app appears to be a copy of an old version of &quot;Bridge Constructor&quot;, but they may or may not be the same developer using 2 different names.  I can't think of a legitimate reason to do that, sounds really fishy to me.  My guess with the permissions and the other untrustworthy appearance of the app is that it's possibly a data miner.  Them again maybe this appis 100% legitimate...  I uninstalled.

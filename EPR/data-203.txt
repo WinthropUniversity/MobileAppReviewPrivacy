@@ -1,0 +1,3 @@
+5b91b7a00dfd20274a188075
+Way too many permissions!
+I did not play this game nor download it for it had way too many permissions.  1. Monitor WAP 2. Write to external storage 3. Monitor, modify, or abort outgoing calls. Meaning that they can cancel your call if they want to. 4. Read contact data. They can read your contacts 5. Read sync data  There are EIGHT MORE PERMISSIONS THAT THEY WANT! Always read the permissions before you download the app. They do not need contact info to download the game!

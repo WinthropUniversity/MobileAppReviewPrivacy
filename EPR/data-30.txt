@@ -1,0 +1,3 @@
+5b91b51c0dfd20274ae72fc3
+Questionable permissions.
+I know cats like to get into things, but this cat wants a bit too much.  Read from external storage?  Allows sending in-app billing requests?  Open network sockets?  Access information about networks?  Allows application to receive messages via Google Cloud Messaging?  And the most troubling of them all, read the user's contacts data?  What exactly is this cat trying to do?

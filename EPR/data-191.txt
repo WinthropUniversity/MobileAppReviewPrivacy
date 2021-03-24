@@ -1,0 +1,3 @@
+5b91b77b0dfd20274a15a321
+Beware the permissions
+Now, don't get me wrong. I'm not paranoid but us end users have got to start paying attention to the permissions. I've uninstalled Evernote and other apps that request permission to access far too much personal info and other unreasonable items.  The only way to stop this is to let the devs know it will no longer be tolerated.

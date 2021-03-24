@@ -1,0 +1,3 @@
+5b91b6d20dfd20274a087e8b
+Warning: Requires &34;run at startup&34; permissions. Why?
+Scribblenauts Remix requires \\&34;run at startup\\&34; device access to install. Why is this necessary? I'd rather not have games starting as my device boots and consuming battery without my knowledge.

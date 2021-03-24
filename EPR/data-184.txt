@@ -1,0 +1,3 @@
+5b91b75d0dfd20274a135100
+Permissions
+Seriously scary permissions required.  Why would a game need to view your contact data.  Why do they need snapshots of what other apps are doing.  Spyware much.

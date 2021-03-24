@@ -1,0 +1,3 @@
+5b91b58f0dfd20274aef8bae
+Simple but very useful
+Actually it simple app but very useful one. It scans all installed apps and point out which app(s) is wpyware, which app(s) steal personal information without our consent.

@@ -1,0 +1,3 @@
+5b91b77a0dfd20274a158b34
+excessive permissions
+The only reason a weather app would need this many permissions is if they were selling your personal info to advertisers to further their profit from an already paid app. Shameless money-grab. Read the privacy statement.

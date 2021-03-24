@@ -1,0 +1,3 @@
+5b91b6900dfd20274a036238
+Lookout says it's adware
+You might not have security software like Lookout installed on your kindle but you should.this application is adware and will use the RevMob back door to share your personal information and to serve you ads in your notifications bar. I downloaded it and then deleted it and you might want to save a step by just skipping it.

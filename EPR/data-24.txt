@@ -1,0 +1,3 @@
+5b91b4ac0dfd20274adf4232
+fun, but just take a look at the second permission.
+The game is fun, but why does it need access to my camera? This is what the permissions are:<br />&middot;Read from external storage<br />&middot;Access the camera device<br />&middot;Allow sending in-app billing requests and managing in-app billing transactions<br />&middot;Open network sockets<br />&middot;Write to external storage<br />&middot;Access the vibration feature<br />&middot;Access information about networks<br />If you think it's really fun and you want to keep it anyway,that's fine by me, but I'm not taking chances.

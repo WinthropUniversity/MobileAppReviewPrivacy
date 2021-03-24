@@ -1,0 +1,3 @@
+5b91b7350dfd20274a102e46
+Evil permissions / trust
+No reason a game needs to see a list of running tasks. Many have said this won't run on rooted phones to prevent cheating.  They may be looking for other cheat apps to be running.  HOWEVER,  when it comes to putting apps on your phone, the issue is can you trust the developer, not the other way around.  No way I'm going to let a game snoop around my system.  If they're worried about the 'security'  or 'integrity'  of the game they should have implemented a server side solution and kept their noses out of people's private information.

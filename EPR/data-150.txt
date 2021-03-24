@@ -1,0 +1,3 @@
+5b91b6e80dfd20274a0a4013
+Highly suspicious access reviews - learn what permissions mean
+Not a suspicious permission! To those that are calling the permission &#34;Access the list of accounts in the Accounts Service&#34; suspicious, you really should learn what permissions are before posting this cr&p.  This permission is needed to get the list of accounts associated with the device so you can connect on Facebook, Google+, or whatever.  It is only the list, not access to those services.  You still need to tell the service, i.e Google, that you are allowing the program to have access.  List, not access.

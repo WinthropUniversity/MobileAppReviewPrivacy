@@ -1,0 +1,3 @@
+5b91b6250dfd20274afb2930
+Did not install
+Maybe I'm paranoid, but I don't think a _game_ should have or need the ability to start at bootup.  It's a game -- I'll start it when I want to play it.  So, I didn't install it.<br /><br />BTW, the Amazon app store should show system permissions/requirements for apps BEFORE they are downloaded -- like Google Play Store does.

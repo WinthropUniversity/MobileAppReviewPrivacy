@@ -1,0 +1,3 @@
+5b91b71d0dfd20274a0e5975
+Zero Stars. Invasive permissions. Spam generator.
+Just look at the permissions you would have to agree to:<br />Read only access to phone state.<br />Open network sockets.<br />Access information about Wi-Fi networks.<br />Access the list of accounts in the Accounts Service.<br />Read the user's contacts data.<br />Access information about networks.<br />PowerManager WakeLocks to keep processor from sleeping or screen from dimming.<br />Modify global audio settings.<br />com.google.android.c2dm.permission.RECEIVE<br />  Not on my devices thank you.

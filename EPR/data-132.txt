@@ -1,0 +1,3 @@
+5b91b6b90dfd20274a069afe
+Excessive permissions
+It's A GAME.  There is no need for it to know what else is running on my device.<br />It's A GAME.  There is nothing so impopushingthat it should need to display an alert on top of other running apps.<br />This can be the result of only a few possible things -  lazy and/or inept programmers,  or 'evil' intent (data mining,  pushing ads).

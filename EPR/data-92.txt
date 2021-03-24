@@ -1,0 +1,3 @@
+5b91b62e0dfd20274afbd351
+Another app with intrusive unnessary permissions
+Why does any image app need to collect your location, your WiFi info, your network info, and the inclusion of flurry analytics should be a red flag for all users, because its only purpose is to collect user data. I urge everyone to stop buying or using apps the unnecessarily collect user data like this one does.
